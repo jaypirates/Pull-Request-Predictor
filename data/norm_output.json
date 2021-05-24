@@ -1,0 +1,902 @@
+[
+    {
+        "pr_number": 11680,
+        "pr_status_check": 1.0,
+        "pr_user_type": 1.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.001944067667120623,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11674,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.14814814814814814,
+        "pr_time_duration": 0.017582671650763614,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11659,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.02606166570970595,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11654,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.15789473684210525,
+        "pr_comment_count": 0.037037037037037035,
+        "pr_time_duration": 0.04186309584479696,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11653,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.15789473684210525,
+        "pr_comment_count": 0.037037037037037035,
+        "pr_time_duration": 0.04280796159709663,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11648,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.10526315789473684,
+        "pr_comment_count": 0.037037037037037035,
+        "pr_time_duration": 0.056360275743261266,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11647,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.037037037037037035,
+        "pr_time_duration": 0.05668501636557808,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11643,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.15789473684210525,
+        "pr_comment_count": 0.1111111111111111,
+        "pr_time_duration": 0.07135249819623997,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11631,
+        "pr_status_check": 1.0,
+        "pr_user_type": 1.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.037037037037037035,
+        "pr_time_duration": 3.409685366268584e-05,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11626,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.0011096976010219574,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11624,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.37037037037037035,
+        "pr_time_duration": 0.022849632693011438,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11622,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.006269262671038114,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11621,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.3333333333333333,
+        "pr_time_duration": 0.0020173667856896054,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11620,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.2222222222222222,
+        "pr_time_duration": 0.012099277639009864,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11619,
+        "pr_status_check": 1.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.0,
+        "pr_time_duration": 9.116805792161991e-07,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11618,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.004329753406813573,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11614,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.03831829941668853,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11612,
+        "pr_status_check": 1.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.037037037037037035,
+        "pr_time_duration": 0.038682789312259165,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11608,
+        "pr_status_check": 0.0,
+        "pr_user_type": 1.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.14814814814814814,
+        "pr_time_duration": 0.0004489115172060564,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11606,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.05583715342690701,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11601,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.1111111111111111,
+        "pr_time_duration": 0.004837012481089466,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11592,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.03114483194718379,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11584,
+        "pr_status_check": 1.0,
+        "pr_user_type": 0.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.037037037037037035,
+        "pr_time_duration": 0.00015790307632024568,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11582,
+        "pr_status_check": 1.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.10526315789473684,
+        "pr_comment_count": 0.14814814814814814,
+        "pr_time_duration": 0.08199910400032674,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11581,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.42105263157894735,
+        "pr_comment_count": 0.037037037037037035,
+        "pr_time_duration": 0.0004173673691651759,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11580,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.037037037037037035,
+        "pr_time_duration": 0.0001429515148211,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11578,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.42105263157894735,
+        "pr_comment_count": 0.1111111111111111,
+        "pr_time_duration": 0.006633752566608751,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11573,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.0007393729497443374,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11559,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.10526315789473684,
+        "pr_comment_count": 0.1111111111111111,
+        "pr_time_duration": 0.007651735101361559,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11557,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.0011665864691650482,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11553,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.15789473684210525,
+        "pr_comment_count": 0.1111111111111111,
+        "pr_time_duration": 0.04631993752435327,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11552,
+        "pr_status_check": 1.0,
+        "pr_user_type": 1.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.023422532768990898,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11551,
+        "pr_status_check": 1.0,
+        "pr_user_type": 1.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.037037037037037035,
+        "pr_time_duration": 0.21456365964630075,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11549,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.14814814814814814,
+        "pr_time_duration": 0.008018777702554,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11538,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.5263157894736842,
+        "pr_comment_count": 0.2962962962962963,
+        "pr_time_duration": 0.1102063187851601,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11537,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.3333333333333333,
+        "pr_time_duration": 0.11419765636096862,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11536,
+        "pr_status_check": 0.0,
+        "pr_user_type": 1.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.18518518518518517,
+        "pr_time_duration": 0.1336221051178648,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11529,
+        "pr_status_check": 1.0,
+        "pr_user_type": 1.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.3333333333333333,
+        "pr_time_duration": 0.013736291287050471,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11528,
+        "pr_status_check": 1.0,
+        "pr_user_type": 0.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.037037037037037035,
+        "pr_time_duration": 0.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11526,
+        "pr_status_check": 1.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.5263157894736842,
+        "pr_comment_count": 0.7777777777777778,
+        "pr_time_duration": 0.15482141362637908,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11520,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.1111111111111111,
+        "pr_time_duration": 0.021366875398974212,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11519,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.0032780386906297652,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11516,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.005809593322997307,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11515,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.012506981194035349,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11513,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.10526315789473684,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.021551034875975886,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11512,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.1111111111111111,
+        "pr_time_duration": 0.06806607204428142,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11508,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.14814814814814814,
+        "pr_time_duration": 0.006447222720101117,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11506,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.0,
+        "pr_time_duration": 7.092874906302028e-05,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11501,
+        "pr_status_check": 0.0,
+        "pr_user_type": 1.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.10618908948090185,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11500,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.15789473684210525,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.02547673145008084,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11499,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.10526315789473684,
+        "pr_comment_count": 0.37037037037037035,
+        "pr_time_duration": 0.22676778055192048,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11495,
+        "pr_status_check": 0.0,
+        "pr_user_type": 1.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.040224623507829606,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11493,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.1111111111111111,
+        "pr_time_duration": 0.05380483507971826,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11492,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.1111111111111111,
+        "pr_time_duration": 0.014730023118396128,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11487,
+        "pr_status_check": 1.0,
+        "pr_user_type": 0.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.00044927618943774286,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11486,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.10526315789473684,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.0072272566236784965,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11484,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.2631578947368421,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.011134172577851596,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11480,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.008166652292502867,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11476,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.25925925925925924,
+        "pr_time_duration": 0.24315432728275244,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11475,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.0003426095616694476,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11464,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.08427374704547116,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11456,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.2631578947368421,
+        "pr_comment_count": 0.4444444444444444,
+        "pr_time_duration": 0.18743788036453365,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11454,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.12283984124359065,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11444,
+        "pr_status_check": 1.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.10526315789473684,
+        "pr_comment_count": 0.037037037037037035,
+        "pr_time_duration": 0.028199739004083783,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11439,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.2222222222222222,
+        "pr_time_duration": 0.042958753564898984,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11437,
+        "pr_status_check": 1.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.0,
+        "pr_time_duration": 3.099713969335077e-06,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11434,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.3333333333333333,
+        "pr_time_duration": 0.056991705712426406,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11433,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.037037037037037035,
+        "pr_time_duration": 4.868374293014503e-05,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11429,
+        "pr_status_check": 0.5,
+        "pr_user_type": 1.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.1111111111111111,
+        "pr_time_duration": 0.0007103815073252623,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11419,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.10526315789473684,
+        "pr_comment_count": 0.18518518518518517,
+        "pr_time_duration": 0.38305499421356337,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11418,
+        "pr_status_check": 1.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.10526315789473684,
+        "pr_comment_count": 0.037037037037037035,
+        "pr_time_duration": 0.00022554977529808763,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11416,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.13581797896096492,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11406,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.37037037037037035,
+        "pr_time_duration": 0.28490510408019,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11405,
+        "pr_status_check": 1.0,
+        "pr_user_type": 0.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.18518518518518517,
+        "pr_time_duration": 0.18121602508361478,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11404,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.00024797711754680614,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11402,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.10526315789473684,
+        "pr_comment_count": 0.1111111111111111,
+        "pr_time_duration": 0.003436671111413384,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11399,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.0006655268228278252,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11390,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.18518518518518517,
+        "pr_time_duration": 0.02585052048755948,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11385,
+        "pr_status_check": 0.0,
+        "pr_user_type": 1.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.2222222222222222,
+        "pr_time_duration": 0.23003232636997784,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11379,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.14814814814814814,
+        "pr_time_duration": 0.0005781878233389134,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11373,
+        "pr_status_check": 1.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.009979802628448045,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11368,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.14814814814814814,
+        "pr_time_duration": 0.021778225676316564,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11361,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 1.0,
+        "pr_comment_count": 0.14814814814814814,
+        "pr_time_duration": 0.02384573489386306,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11360,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.1111111111111111,
+        "pr_time_duration": 0.01039206458636961,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11359,
+        "pr_status_check": 1.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.25925925925925924,
+        "pr_time_duration": 0.03093204569999473,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11354,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.10526315789473684,
+        "pr_comment_count": 0.5185185185185185,
+        "pr_time_duration": 1.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11348,
+        "pr_status_check": 1.0,
+        "pr_user_type": 1.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 1.0,
+        "pr_time_duration": 0.216387203140849,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11343,
+        "pr_status_check": 1.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.011731870365585735,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11341,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.006202345316523646,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11337,
+        "pr_status_check": 1.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.15789473684210525,
+        "pr_comment_count": 0.3333333333333333,
+        "pr_time_duration": 0.014377385070355303,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11334,
+        "pr_status_check": 1.0,
+        "pr_user_type": 0.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.1111111111111111,
+        "pr_time_duration": 0.04918972565161002,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11332,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 8.825068006812806e-05,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11329,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.00025308252879041685,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11327,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.10526315789473684,
+        "pr_comment_count": 0.18518518518518517,
+        "pr_time_duration": 0.05243968458039992,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11323,
+        "pr_status_check": 0.0,
+        "pr_user_type": 1.0,
+        "pr_user_contr": 0.0,
+        "pr_comment_count": 0.2962962962962963,
+        "pr_time_duration": 0.20085964185175453,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11321,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.09526332708345907,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11311,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.15789473684210525,
+        "pr_comment_count": 0.14814814814814814,
+        "pr_time_duration": 0.038837410338494235,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11307,
+        "pr_status_check": 1.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.3684210526315789,
+        "pr_comment_count": 0.37037037037037035,
+        "pr_time_duration": 0.035852203449908714,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11300,
+        "pr_status_check": 1.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.2962962962962963,
+        "pr_time_duration": 0.04080901075910719,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11299,
+        "pr_status_check": 0.0,
+        "pr_user_type": 0.5,
+        "pr_user_contr": 0.05263157894736842,
+        "pr_comment_count": 0.07407407407407407,
+        "pr_time_duration": 0.011841636707323366,
+        "pr_is_merged": 1
+    }
+]
