@@ -1,0 +1,902 @@
+[
+    {
+        "pr_number": 11680,
+        "pr_status_check": 3,
+        "pr_user_type": 6,
+        "pr_user_contr": 0,
+        "pr_comment_count": 2,
+        "pr_time_duration": 10670.0,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11674,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 4,
+        "pr_time_duration": 96438.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11659,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 2,
+        "pr_time_duration": 142940.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11654,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 3,
+        "pr_comment_count": 1,
+        "pr_time_duration": 229601.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11653,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 3,
+        "pr_comment_count": 1,
+        "pr_time_duration": 234783.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11648,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 2,
+        "pr_comment_count": 1,
+        "pr_time_duration": 309109.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11647,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 0,
+        "pr_comment_count": 1,
+        "pr_time_duration": 310890.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11643,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 3,
+        "pr_comment_count": 3,
+        "pr_time_duration": 391332.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11631,
+        "pr_status_check": 3,
+        "pr_user_type": 6,
+        "pr_user_contr": 0,
+        "pr_comment_count": 1,
+        "pr_time_duration": 195.0,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11626,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 2,
+        "pr_time_duration": 6094.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11624,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 0,
+        "pr_comment_count": 10,
+        "pr_time_duration": 125324.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11622,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 0,
+        "pr_comment_count": 2,
+        "pr_time_duration": 34391.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11621,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 9,
+        "pr_time_duration": 11072.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11620,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 6,
+        "pr_time_duration": 66365.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11619,
+        "pr_status_check": 3,
+        "pr_user_type": 4,
+        "pr_user_contr": 0,
+        "pr_comment_count": 0,
+        "pr_time_duration": 13.0,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11618,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 2,
+        "pr_time_duration": 23754.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11614,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 0,
+        "pr_comment_count": 2,
+        "pr_time_duration": 210160.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11612,
+        "pr_status_check": 3,
+        "pr_user_type": 4,
+        "pr_user_contr": 0,
+        "pr_comment_count": 1,
+        "pr_time_duration": 212159.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11608,
+        "pr_status_check": 1,
+        "pr_user_type": 6,
+        "pr_user_contr": 0,
+        "pr_comment_count": 4,
+        "pr_time_duration": 2470.0,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11606,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 2,
+        "pr_time_duration": 306240.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11601,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 3,
+        "pr_time_duration": 26536.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11592,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 2,
+        "pr_time_duration": 170818.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11584,
+        "pr_status_check": 3,
+        "pr_user_type": 2,
+        "pr_user_contr": 0,
+        "pr_comment_count": 1,
+        "pr_time_duration": 874.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11582,
+        "pr_status_check": 3,
+        "pr_user_type": 4,
+        "pr_user_contr": 2,
+        "pr_comment_count": 4,
+        "pr_time_duration": 449722.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11581,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 8,
+        "pr_comment_count": 1,
+        "pr_time_duration": 2297.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11580,
+        "pr_status_check": 1,
+        "pr_user_type": 2,
+        "pr_user_contr": 0,
+        "pr_comment_count": 1,
+        "pr_time_duration": 792.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11578,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 8,
+        "pr_comment_count": 3,
+        "pr_time_duration": 36390.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11573,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 2,
+        "pr_time_duration": 4063.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11559,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 2,
+        "pr_comment_count": 3,
+        "pr_time_duration": 41973.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11557,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 2,
+        "pr_time_duration": 6406.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11553,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 3,
+        "pr_comment_count": 3,
+        "pr_time_duration": 254044.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11552,
+        "pr_status_check": 3,
+        "pr_user_type": 6,
+        "pr_user_contr": 0,
+        "pr_comment_count": 2,
+        "pr_time_duration": 128466.0,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11551,
+        "pr_status_check": 3,
+        "pr_user_type": 6,
+        "pr_user_contr": 0,
+        "pr_comment_count": 1,
+        "pr_time_duration": 1176756.0,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11549,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 4,
+        "pr_time_duration": 43986.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11538,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 10,
+        "pr_comment_count": 8,
+        "pr_time_duration": 604421.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11537,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 9,
+        "pr_time_duration": 626311.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11536,
+        "pr_status_check": 1,
+        "pr_user_type": 6,
+        "pr_user_contr": 0,
+        "pr_comment_count": 5,
+        "pr_time_duration": 732842.0,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11529,
+        "pr_status_check": 3,
+        "pr_user_type": 6,
+        "pr_user_contr": 0,
+        "pr_comment_count": 9,
+        "pr_time_duration": 75343.0,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11528,
+        "pr_status_check": 3,
+        "pr_user_type": 2,
+        "pr_user_contr": 0,
+        "pr_comment_count": 1,
+        "pr_time_duration": 8.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11526,
+        "pr_status_check": 3,
+        "pr_user_type": 4,
+        "pr_user_contr": 10,
+        "pr_comment_count": 21,
+        "pr_time_duration": 849107.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11520,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 3,
+        "pr_time_duration": 117192.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11519,
+        "pr_status_check": 1,
+        "pr_user_type": 2,
+        "pr_user_contr": 0,
+        "pr_comment_count": 2,
+        "pr_time_duration": 17986.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11516,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 2,
+        "pr_time_duration": 31870.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11515,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 2,
+        "pr_time_duration": 68601.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11513,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 2,
+        "pr_comment_count": 2,
+        "pr_time_duration": 118202.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11512,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 3,
+        "pr_time_duration": 373308.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11508,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 4,
+        "pr_time_duration": 35367.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11506,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 0,
+        "pr_time_duration": 397.0,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11501,
+        "pr_status_check": 1,
+        "pr_user_type": 6,
+        "pr_user_contr": 0,
+        "pr_comment_count": 2,
+        "pr_time_duration": 582389.0,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11500,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 3,
+        "pr_comment_count": 2,
+        "pr_time_duration": 139732.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11499,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 2,
+        "pr_comment_count": 10,
+        "pr_time_duration": 1243688.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11495,
+        "pr_status_check": 1,
+        "pr_user_type": 6,
+        "pr_user_contr": 0,
+        "pr_comment_count": 2,
+        "pr_time_duration": 220615.0,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11493,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 3,
+        "pr_time_duration": 295094.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11492,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 3,
+        "pr_time_duration": 80793.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11487,
+        "pr_status_check": 3,
+        "pr_user_type": 2,
+        "pr_user_contr": 0,
+        "pr_comment_count": 2,
+        "pr_time_duration": 2472.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11486,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 2,
+        "pr_comment_count": 2,
+        "pr_time_duration": 39645.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11484,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 5,
+        "pr_comment_count": 2,
+        "pr_time_duration": 61072.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11480,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 2,
+        "pr_time_duration": 44797.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11476,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 7,
+        "pr_time_duration": 1333558.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11475,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 2,
+        "pr_time_duration": 1887.0,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11464,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 2,
+        "pr_time_duration": 462197.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11456,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 5,
+        "pr_comment_count": 12,
+        "pr_time_duration": 1027988.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11454,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 2,
+        "pr_time_duration": 673708.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11444,
+        "pr_status_check": 3,
+        "pr_user_type": 4,
+        "pr_user_contr": 2,
+        "pr_comment_count": 1,
+        "pr_time_duration": 154666.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11439,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 6,
+        "pr_time_duration": 235610.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11437,
+        "pr_status_check": 3,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 0,
+        "pr_time_duration": 25.0,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11434,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 9,
+        "pr_time_duration": 312572.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11433,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 1,
+        "pr_time_duration": 275.0,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11429,
+        "pr_status_check": 2,
+        "pr_user_type": 6,
+        "pr_user_contr": 0,
+        "pr_comment_count": 3,
+        "pr_time_duration": 3904.0,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11419,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 2,
+        "pr_comment_count": 5,
+        "pr_time_duration": 2100826.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11418,
+        "pr_status_check": 3,
+        "pr_user_type": 4,
+        "pr_user_contr": 2,
+        "pr_comment_count": 1,
+        "pr_time_duration": 1245.0,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11416,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 2,
+        "pr_time_duration": 744885.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11406,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 10,
+        "pr_time_duration": 1562535.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11405,
+        "pr_status_check": 3,
+        "pr_user_type": 2,
+        "pr_user_contr": 0,
+        "pr_comment_count": 5,
+        "pr_time_duration": 993865.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11404,
+        "pr_status_check": 1,
+        "pr_user_type": 2,
+        "pr_user_contr": 0,
+        "pr_comment_count": 2,
+        "pr_time_duration": 1368.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11402,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 2,
+        "pr_comment_count": 3,
+        "pr_time_duration": 18856.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11399,
+        "pr_status_check": 1,
+        "pr_user_type": 2,
+        "pr_user_contr": 0,
+        "pr_comment_count": 2,
+        "pr_time_duration": 3658.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11390,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 5,
+        "pr_time_duration": 141782.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11385,
+        "pr_status_check": 1,
+        "pr_user_type": 6,
+        "pr_user_contr": 0,
+        "pr_comment_count": 6,
+        "pr_time_duration": 1261592.0,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11379,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 4,
+        "pr_time_duration": 3179.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11373,
+        "pr_status_check": 3,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 2,
+        "pr_time_duration": 54741.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11368,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 4,
+        "pr_time_duration": 119448.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11361,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 19,
+        "pr_comment_count": 4,
+        "pr_time_duration": 130787.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11360,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 3,
+        "pr_time_duration": 57002.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11359,
+        "pr_status_check": 3,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 7,
+        "pr_time_duration": 169651.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11354,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 2,
+        "pr_comment_count": 14,
+        "pr_time_duration": 5484385.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11348,
+        "pr_status_check": 3,
+        "pr_user_type": 6,
+        "pr_user_contr": 0,
+        "pr_comment_count": 27,
+        "pr_time_duration": 1186757.0,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11343,
+        "pr_status_check": 3,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 2,
+        "pr_time_duration": 64350.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11341,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 2,
+        "pr_time_duration": 34024.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11337,
+        "pr_status_check": 3,
+        "pr_user_type": 4,
+        "pr_user_contr": 3,
+        "pr_comment_count": 9,
+        "pr_time_duration": 78859.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11334,
+        "pr_status_check": 3,
+        "pr_user_type": 2,
+        "pr_user_contr": 0,
+        "pr_comment_count": 3,
+        "pr_time_duration": 269783.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11332,
+        "pr_status_check": 1,
+        "pr_user_type": 2,
+        "pr_user_contr": 0,
+        "pr_comment_count": 2,
+        "pr_time_duration": 492.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11329,
+        "pr_status_check": 1,
+        "pr_user_type": 2,
+        "pr_user_contr": 0,
+        "pr_comment_count": 2,
+        "pr_time_duration": 1396.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11327,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 2,
+        "pr_comment_count": 5,
+        "pr_time_duration": 287607.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11323,
+        "pr_status_check": 1,
+        "pr_user_type": 6,
+        "pr_user_contr": 0,
+        "pr_comment_count": 8,
+        "pr_time_duration": 1101598.0,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11321,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 2,
+        "pr_time_duration": 522468.0,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11311,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 3,
+        "pr_comment_count": 4,
+        "pr_time_duration": 213007.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11307,
+        "pr_status_check": 3,
+        "pr_user_type": 4,
+        "pr_user_contr": 7,
+        "pr_comment_count": 10,
+        "pr_time_duration": 196635.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11300,
+        "pr_status_check": 3,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 8,
+        "pr_time_duration": 223820.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11299,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 2,
+        "pr_time_duration": 64952.0,
+        "pr_is_merged": 1
+    }
+]

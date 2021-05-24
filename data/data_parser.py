@@ -1,3 +1,5 @@
+# Author: Kunal Nain
+
 import json
 import os
 from dotenv import load_dotenv, find_dotenv
